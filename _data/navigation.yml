@@ -1,9 +1,15 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /docs/_pages/about/
+  - title: "과제"
+    url: 
+  - title: "프로그래밍 과제"
+    url:
+  - title: "강의 노트"
+    url:
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
